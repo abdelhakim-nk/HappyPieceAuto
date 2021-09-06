@@ -11,3 +11,6 @@ Mise en ligne du site via un herbergeur (lws).
 Création d'un logo ainsi que d'un Flyer (photoshop & figma).
 
 Lien vers le site : https://happypieceauto.fr/
+
+![alt text](https://happypieceauto.fr/wp-content/uploads/2021/04/logo-2.png)
+
